@@ -5,8 +5,8 @@
   - [API Console](http://developer.dome9.com/console.html)
 
 ## Usage
-
-    let Dome9 = require('./index');
+    npm install --save dome9
+    let Dome9 = require('dome9');
     let dome9 = new Dome9(USERNAME, APIKEY);
 
 ## Class Functions
