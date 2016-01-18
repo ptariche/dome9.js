@@ -1,6 +1,6 @@
 {
   "name": "dome9",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Dome9 Javascript Library",
   "main": "index.js",
   "scripts": {
