@@ -1,0 +1,30 @@
+{
+  "name": "dome9",
+  "version": "0.0.1",
+  "description": "Dome9 Javascript Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptariche/dome9.js.git"
+  },
+  "keywords": [
+    "Dome9",
+    "dome",
+    "9"
+  ],
+  "author": "Peter A. Tariche",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ptariche/dome9.js/issues"
+  },
+  "homepage": "https://github.com/ptariche/dome9.js#readme",
+  "devDependencies": {
+    "co": "^4.6.0"
+  },
+  "dependencies": {
+    "request-promise": "^2.0.0"
+  }
+}
