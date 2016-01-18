@@ -27,7 +27,7 @@
   - .deleteBlacklistByIp(ip)
   - .createBlacklistItem(ip, comment, ttl)
   - .updateBlacklist(items)
-  - .getAccessLeaseById(id)
+  - .getAccessLeaseById(id) // Endpoint does not seem to presently access ID correctly
   - .createLease(serviceURI, name)
   - .deleteLeaseById(id)
 
