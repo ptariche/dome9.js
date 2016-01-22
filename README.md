@@ -32,7 +32,7 @@
   - .deleteLeaseById(id)
 
 ## Example
-
+```
     'use strict';
 
     let co    = require('co');
@@ -65,6 +65,6 @@
     };
 
     start();
-
+```
 ### Author
   [Peter A. Tariche](https://github.com/ptariche)
