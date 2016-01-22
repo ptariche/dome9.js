@@ -5,10 +5,11 @@
   - [API Console](http://developer.dome9.com/console.html)
 
 ## Usage
+  ```js
     npm install --save dome9
     let Dome9 = require('dome9');
     let dome9 = new Dome9(USERNAME, APIKEY);
-
+  ```
 ## Class Functions
   [Promises](#promises)
 
@@ -32,7 +33,7 @@
   - .deleteLeaseById(id)
 
 ## Example
-```
+```js
     'use strict';
 
     let co    = require('co');
